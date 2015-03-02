@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<HelpTheSquirrel>
+	<Level>
+		<levelNum>1</levelNum>
+        <dynamicGravity>0</dynamicGravity>
+		<sprite>
+			<spriteOffsetX>31</spriteOffsetX>
+			<spriteFactorX>0.4</spriteFactorX>
+			<spriteOffsetY>0</spriteOffsetY>
+			<spriteFactorY>0.0</spriteFactorY>
+		</sprite>
+		<body>
+			<bodyOffsetX>0.0</bodyOffsetX>
+			<bodyFactorX>0.33</bodyFactorX>
+			<bodyOffsetY>50</bodyOffsetY>
+			<bodyFactorY>0.0</bodyFactorY>
+		</body>
+		<nut>
+			<nutOffsetX>0.0</nutOffsetX>
+			<nutFactorX>0.5</nutFactorX>
+			<nutOffsetY>0.0</nutOffsetY>
+			<nutFactorY>0.75</nutFactorY>
+		</nut>
+		<ropes>
+			<numOfRopes>3</numOfRopes>
+			<rope>
+				<coordinateX>0.60</coordinateX>
+				<coordinateY>0.95</coordinateY>
+			</rope>
+            <rope>
+				<coordinateX>0.80</coordinateX>
+				<coordinateY>0.7</coordinateY>
+			</rope>
+            <rope>
+				<coordinateX>0.25</coordinateX>
+				<coordinateY>0.95</coordinateY>
+			</rope>
+		</ropes>
+		<stars>
+			<starOffsetX>50</starOffsetX>
+			<starFactorX>0.40</starFactorX>
+            <xoffsetForI>0</xoffsetForI>
+            <xfactorForI>-38</xfactorForI>
+			<starOffsetY>0</starOffsetY>
+			<starFactorY>0</starFactorY>
+            <yoffsetForI>250</yoffsetForI>
+            <yfactorForI>-50</yfactorForI>
+		</stars>
+		<ropeResources>
+			<numOfRopeResources>0</numOfRopeResources>
+		</ropeResources>
+
+
+	</Level>
+</HelpTheSquirrel>

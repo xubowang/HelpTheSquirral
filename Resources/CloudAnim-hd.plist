@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>cloud1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{68,2},{56,54}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4,5},{56,54}}</string>
+			<key>sourceSize</key>
+			<string>{64,64}</string>
+		</dict>
+		<key>cloud2.png</key>
+		<dict>
+			<key>New item</key>
+			<string></string>
+			<key>frame</key>
+			<string>{{2,2},{64,52}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,6},{64,52}}</string>
+			<key>sourceSize</key>
+			<string>{64,64}</string>
+		</dict>
+		<key>cloud3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,56},{60,58}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2,3},{60,58}}</string>
+			<key>sourceSize</key>
+			<string>{64,64}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>CloudAnim-hd.png</string>
+		<key>size</key>
+		<string>{128,128}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:d0ef994ceed40df93ca0f76717901abe:1/1$</string>
+		<key>textureFileName</key>
+		<string>CloudAnim-hd.png</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<HelpTheSquirrel>
+	<Level>
+		<levelNum>6</levelNum>
+		<sprite>
+			<spriteOffsetX>320</spriteOffsetX>
+			<spriteFactorX>0</spriteFactorX>
+			<spriteOffsetY>0</spriteOffsetY>
+			<spriteFactorY>0</spriteFactorY>
+		</sprite>
+		<body>
+			<bodyOffsetX>270</bodyOffsetX>
+			<bodyFactorX>0</bodyFactorX>
+			<bodyOffsetY>60</bodyOffsetY>
+			<bodyFactorY>0</bodyFactorY>
+		</body>
+		<nut>
+			<nutOffsetX>0</nutOffsetX>
+			<nutFactorX>0.25</nutFactorX>
+			<nutOffsetY>0</nutOffsetY>
+			<nutFactorY>0.75</nutFactorY>
+		</nut>
+		<ropes>
+			<numOfRopes>1</numOfRopes>
+			<rope>
+				<coordinateX>0.25</coordinateX>
+				<coordinateY>0.95</coordinateY>
+			</rope>
+		</ropes>
+		<stars>
+			<starOffsetX>0</starOffsetX>
+			<starFactorX>0</starFactorX>
+            <xoffsetForI>120</xoffsetForI>
+            <xfactorForI>70</xfactorForI>
+			<starOffsetY>400</starOffsetY>
+			<starFactorY>0</starFactorY>
+            <yoffsetForI>0</yoffsetForI>
+            <yfactorForI>0</yfactorForI>
+		</stars>
+		<ropeResources>
+			<numOfRopeResources>0</numOfRopeResources>
+		</ropeResources>
+		<bubbles>
+            <bubble>
+                <bubbleX>120</bubbleX>
+                <bubbleY>180</bubbleY>
+            </bubble>
+            <bubble>
+                <bubbleX>190</bubbleX>
+                <bubbleY>180</bubbleY>
+            </bubble>
+            <bubble>
+                <bubbleX>260</bubbleX>
+                <bubbleY>180</bubbleY>
+            </bubble>
+        </bubbles>
+        
+		<airGuns>
+		
+            <airGun>
+                <airGunX>20</airGunX>
+                <airGunY>300</airGunY>
+            </airGun>
+            
+		</airGuns>
+	</Level>
+</HelpTheSquirrel>
